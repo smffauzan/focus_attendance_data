@@ -575,153 +575,93 @@
     "grade": "7"
   },
   {
-    "grade": 10,
+    "grade": 8,
     "id": "S116",
-    "name": "A. Firose"
-  },
-  {
-    "grade": 9,
-    "id": "S117",
-    "name": "M. Irfan"
-  },
-  {
-    "grade": 8,
-    "id": "S118",
-    "name": "Y. Md Haaris"
-  },
-  {
-    "grade": 6,
-    "id": "S119",
-    "name": "P. Anwar Hussain"
-  },
-  {
-    "grade": 7,
-    "id": "S120",
-    "name": "K.A Md Ayaan"
-  },
-  {
-    "grade": 5,
-    "id": "S121",
-    "name": "P. Md Usman Suhaib"
-  },
-  {
-    "grade": 2,
-    "id": "S122",
-    "name": "Malack Habeebullah"
-  },
-  {
-    "grade": 6,
-    "id": "S123",
-    "name": "A. Md Anas"
-  },
-  {
-    "grade": 7,
-    "id": "S124",
-    "name": "P. Md Mustaqeem"
-  },
-  {
-    "grade": 5,
-    "id": "S125",
-    "name": "H. Md Anas"
-  },
-  {
-    "grade": 6,
-    "id": "S126",
-    "name": "Md Saabil"
-  },
-  {
-    "grade": 8,
-    "id": "S127",
-    "name": "K. Md Ameer Hassan"
-  },
-  {
-    "grade": 8,
-    "id": "S128",
     "name": "H. Md Althaf"
   },
   {
     "grade": 8,
-    "id": "S129",
+    "id": "S117",
     "name": "O Md Hamdan"
   },
   {
     "grade": 6,
-    "id": "S130",
+    "id": "S118",
     "name": "V.A Md Owais"
   },
   {
     "grade": 6,
-    "id": "S131",
+    "id": "S119",
     "name": "S. Md Waseem"
   },
   {
     "grade": 7,
-    "id": "S132",
+    "id": "S120",
     "name": "A. Md Aysar Ibrahim"
   },
   {
     "grade": 8,
-    "id": "S133",
+    "id": "S121",
     "name": "P.S Md Furqaan"
   },
   {
     "grade": 6,
-    "id": "S134",
+    "id": "S122",
     "name": "F. Md Faazil"
   },
   {
     "grade": 5,
-    "id": "S135",
+    "id": "S123",
     "name": "S. Md Anas"
   },
   {
     "grade": 6,
-    "id": "S136",
+    "id": "S124",
     "name": "A. Atif"
   },
   {
     "grade": 7,
-    "id": "S137",
+    "id": "S125",
     "name": "A. Sufiyan"
   },
   {
     "grade": 10,
-    "id": "S138",
+    "id": "S126",
     "name": "A. Md Reehaan"
   },
   {
     "grade": 6,
-    "id": "S139",
+    "id": "S127",
     "name": "G. Md Afeef Hassan"
   },
   {
     "grade": 8,
-    "id": "S140",
+    "id": "S128",
     "name": "S Rehan Khan"
   },
   {
     "grade": 6,
-    "id": "S141",
+    "id": "S129",
     "name": "S Ayan Khan"
   },
   {
     "grade": 6,
-    "id": "S142",
+    "id": "S130",
     "name": "Abubakkar Siddique"
   },
   {
     "grade": 7,
-    "id": "S143",
+    "id": "S131",
     "name": "S Md Rehan"
   },
   {
     "grade": 4,
-    "id": "S144",
+    "id": "S132",
     "name": "N Nathiq"
   },
   {
     "grade": 4,
-    "id": "145",
+    "id": "S133",
     "name": "K V Abdus Samad"
   }
 ]
